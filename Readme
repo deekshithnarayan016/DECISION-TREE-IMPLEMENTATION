@@ -1,30 +1,28 @@
-# DECISION-TREE-IMPLEMENTATION
+DECISION-TREE-IMPLEMENTATION
 
-## COMPANY
+##COMPANY
 
-CODTECH IT SOLUTIONS
+    CODTECH IT SOLUTIONS
+##NAME
 
-## NAME
+    MUDRAGIRI DEEKSHITH NARAYAN
 
-MUDRAGIRI DEE
+##INTERN ID
 
-## INTERN ID
+    CTIS17
 
-CTIS17
+##DOMAIN
 
-## DOMAIN
+    MACHINE LEARNING
 
-MACHINE LEARNING
+##DURATION
 
-## DURATION
+    4 WEEKS
+##MENTOR
 
-4 WEEKS
+    NEELA SANTOSH
 
-## MENTOR
-
-NEELA SANTOSH
-
-## DESCRIPTION OF TASK
+##DESCRIPTION OF TASK
 
 The objective of this project is to build and visualize a Decision Tree Classification model using the Scikit-Learn library. The Iris dataset, a widely used machine learning dataset, is used to train and evaluate the model.
 
