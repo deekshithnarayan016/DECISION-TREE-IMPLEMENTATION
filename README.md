@@ -56,6 +56,5 @@ Finally, the trained Decision Tree was visualized using Matplotlib and Scikit-Le
 ---
 
 # OUTPUT
-
-* Decision Tree V
-This project successfully implemented a Decision Tree Classification model using Scikit-Learn. The model achieved good prediction accuracy and demonstrated how Decision Trees can be used for classification tasks while providing easy-to-understand visual interpretations.
+![img](https://github.com/user-attachments/assets/a1040c13-a2c1-4d0b-a3d8-0781bf169d08)
+![img](https://github.com/user-attachments/assets/9413e3a2-8263-4203-bf49-b717a35f7afe)
